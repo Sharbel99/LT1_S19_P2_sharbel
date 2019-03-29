@@ -1,3 +1,9 @@
 II.11
 the results of the git log are the same as that of exec_read.sh
 In fact this script takes the results from the log.txt file and displays them
+
+II.12.b
+If you don't source, the changes will not take effect in this command prompt
+
+II.14
+sh exec_file.sh log.txt
